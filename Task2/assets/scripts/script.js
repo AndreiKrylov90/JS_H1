@@ -1,6 +1,6 @@
-let name = parseInt(prompt("Enter your age"));
+let age = parseInt(prompt("Enter your age"));
 
-switch (name) {
+switch (age) {
     case 18:
         alert('You are an adult, do whatever you want');
         break;
